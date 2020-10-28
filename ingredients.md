@@ -18,7 +18,6 @@ Here are the *Ingredients*:
 17. Red Capsicum
 18. Yellow Capsicum
 19. Corn Flour
-20. Haldi
-21. Dhania Powder
-22. Oil
-23. Water
+20. Turmuric
+21. Oil
+22. Water
